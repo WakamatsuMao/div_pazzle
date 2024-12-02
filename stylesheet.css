@@ -11,4 +11,12 @@
   top: 20px;
   right: 20px;
   background-color: white;
+  display: flex;
+}
+
+.purple {
+  width: 40px;
+  height: 40px;
+  margin-left: 10px;
+  background-color: #6729a0;
 }
