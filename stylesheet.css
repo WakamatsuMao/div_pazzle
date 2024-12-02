@@ -36,3 +36,11 @@
 .wrapper-green-blue {
   display: flex;
 }
+
+.orange {
+  width: 140px;
+  height: 40px;
+  background-color: #ff863f;
+  border: 5px solid white;
+  margin-top: 10px;
+}
