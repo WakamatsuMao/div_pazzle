@@ -12,12 +12,12 @@
   display: flex;
   background-color: white;
   padding: 10px;
+  gap: 10px;
 }
 
 .purple {
   width: 40px;
   height: 40px;
-  margin-left: 10px;
   background-color: #6729a0;
 }
 
