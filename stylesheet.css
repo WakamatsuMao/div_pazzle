@@ -32,3 +32,7 @@
   height: 250px;
   background-color: #2563eb;
 }
+
+.wrapper-green-blue {
+  display: flex;
+}
