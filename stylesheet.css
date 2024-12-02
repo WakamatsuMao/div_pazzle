@@ -1,1 +1,7 @@
 @charset "UTF-8";
+
+.red {
+  width: 400px;
+  height: 100px;
+  background-color: #f00;
+}
